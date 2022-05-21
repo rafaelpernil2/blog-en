@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
