@@ -22,3 +22,5 @@ Musically, there is a big change from my usual creative process. I learned sound
 It is still based on improvisation but with a predefined well documented underlying concept.
 
 Anyways, I hope you like it :)
+
+Link: [https://distrokid.com/hyperfollow/rafaelpernil/society-terms-and-conditions-2](https://distrokid.com/hyperfollow/rafaelpernil/society-terms-and-conditions-2)
