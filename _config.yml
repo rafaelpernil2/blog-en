@@ -1,5 +1,5 @@
 ---
-title: Rafael Pernil Blog
+title: Rafael Pernil - Software Engineer & Musician
 timezone: Europe/Madrid
 collections:
   posts:
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+Test: a
