@@ -17,11 +17,6 @@
     margin-bottom: 0;
     float: left;
     color: $brand-color;
-
-    &,
-    &:visited {
-        color: $brand-color-dark;
-    }
 }
 
 .site-nav {
@@ -210,7 +205,6 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    color: $brand-color;
 
     @include media-query($on-laptop) {
         font-size: 36px;
