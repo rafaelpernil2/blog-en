@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-remote_theme: mmistakes/minimal-mistakes
+theme: mmistakes/minimal-mistakes
