@@ -2,6 +2,9 @@
 title: Rafael Pernil's Blog
 timezone: Europe/Madrid
 collections:
+  links:
+    title: Links
+    output: true
   posts:
     title: Posts
     output: true
