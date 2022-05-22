@@ -21,4 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
