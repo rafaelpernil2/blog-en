@@ -1,0 +1,1 @@
+gem 'minima', github: 'mmistakes/minimal-mistakes'
