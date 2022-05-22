@@ -16,7 +16,11 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: $title-color;
+
+    &,
+    &:visited {
+        color: $grey-color-dark;
+    }
 }
 
 .site-nav {
