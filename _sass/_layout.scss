@@ -189,7 +189,6 @@
 .post-link {
     display: block;
     font-size: 24px;
-    color: $title-color;
 }
 
 
@@ -206,7 +205,6 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    color: $title-color;
 
     @include media-query($on-laptop) {
         font-size: 36px;
