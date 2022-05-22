@@ -9,7 +9,7 @@ tags:
 - Software
 ---
 
-![Sin título.png](/uploads/Sin%20t%C3%ADtulo.png)
+![Sin título.png](https://feranern.sirv.com/Images/Sin%20t%C3%ADtulo.png)
 
 This little project started from my goal of learning MIDI programming and Max programming language, joining my both passions, software and music.
 
@@ -57,7 +57,7 @@ LSB = Sample Number % 100 (Modulo operation)
 
 It was a great learning experience, feel free to modify it and play with the code. Since Max is a visual programming language, I can also show in one screenshot how it works:
 
-![volcasamplemax.png](/uploads/volcasamplemax.png)
+![volcasamplemax.png](https://feranern.sirv.com/Images/volcasamplemax.png)
 
 
 Extending and improving this project, I created a new version based on WebMIDI. It’s WAY better, you’ll see :P
